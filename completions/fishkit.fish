@@ -1,0 +1,1 @@
+/home/elliott/.config/fisherman/fishkit/completions/fishkit.fish
